@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArnoldMuchene
+- 👋 Hi, I’m @ArnoldNjenga
 - 👀 I’m interested in football
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Transport systems
